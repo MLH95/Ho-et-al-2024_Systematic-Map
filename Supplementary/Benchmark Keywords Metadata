@@ -1,4 +1,0 @@
-This text file describes the data contained in the file "Benchmark Keywords.csv".
-The keywords are supplied by either authors or provided by Scopus as indexing keywords.
-Duplication per literature has been removed to avoid double count of a single keyword withing the same literature.
-The keywords are compiled into a single column for data manipulation in RStudio for the generation of word cloud.
